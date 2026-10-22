@@ -10,7 +10,7 @@
   весовой товар, интеграция со СБИС, PostgreSQL, 880 тестов.
 - **[Krause.pro](https://github.com/Amontapelir/krause-case)** — Telegram Mini App онлайн-курсов:
   вход через Telegram, ИИ-разбор, оплата через Т-Кассу, админка с рассылками и аналитикой.
-- **[RentLedger](https://github.com/Amontapelir/arnando)** — учёт посуточной аренды для самозанятых: календарь броней,
+- **[Arnando](https://github.com/Amontapelir/arnando)** — учёт посуточной аренды для самозанятых: календарь броней,
   налоги НПД и УСН, JWT. Прототип взял 1 место на кейс-чемпионате «Первый Бит» 2025.
 - **[GitHub Analyzer](https://github.com/Amontapelir/Github_Analizator)** — анализ профилей GitHub с LLM, OAuth, retry-политика для внешних API.
 - **[Сходим?](https://github.com/Amontapelir/skhodim)** — бот и мини-приложение для хакатона MAX.
